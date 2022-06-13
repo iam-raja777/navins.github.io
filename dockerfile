@@ -1,2 +1,2 @@
-FROM myhttpd
+FROM httpd
 LABEL Name="raja"
